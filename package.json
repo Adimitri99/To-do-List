@@ -1,0 +1,12 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Lista de tarefas usando o node js, onde o usuário consegue adicionar, vizualizar, editar e excluir tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
